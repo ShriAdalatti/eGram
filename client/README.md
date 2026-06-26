@@ -1,16 +1,87 @@
-# React + Vite
+# eGram – Smart Gram Panchayat Management Portal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚧 Project Status
 
-Currently, two official plugins are available:
+**Under Active Development**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌱 About the Project
 
-## React Compiler
+eGram is a full-stack web application being developed to digitally transform the administration of my village's Gram Panchayat.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Currently, my village does not have a centralized digital platform for accessing Gram Panchayat services. Most processes are handled manually, requiring villagers to visit the Gram Panchayat office multiple times for information, document requests, and updates.
 
-## Expanding the ESLint configuration
+The objective of eGram is to simplify these processes by providing a secure, transparent, and user-friendly platform that makes essential village services easily accessible to every citizen.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project is not just a portfolio project—it is being built with the vision of serving my own village and improving the day-to-day experience of its residents through technology.
+
+---
+
+## 🎯 Vision
+
+To build a modern digital governance platform that empowers Gram Panchayats with efficient administration while making government services more accessible, transparent, and convenient for villagers.
+
+---
+
+## ✨ Planned Features
+
+### 👥 Citizen Portal
+
+* Citizen Registration & Login
+* Apply for Certificates
+* Track Application Status
+* Register Complaints
+* View Village Notices
+* Event & Festival Updates
+* Profile Management
+
+### 🛡️ Admin Portal
+
+* Secure Admin Login
+* Citizen Management
+* Certificate Approval Workflow
+* Complaint Management
+* Notice & Event Management
+* Dashboard & Reports
+
+---
+
+## 💻 Tech Stack
+
+**Frontend**
+
+* React.js (Vite)
+* HTML5
+* CSS3
+* JavaScript
+
+**Backend**
+
+* Node.js
+* Express.js
+
+**Database**
+
+* MongoDB
+* Mongoose
+
+---
+
+## 📌 Current Progress
+
+* ✅ Repository Initialized
+* ✅ React Frontend Setup
+* 🚧 Backend Development
+* 🚧 Authentication
+* 🚧 Database Design
+* 🚧 Citizen & Admin Portals
+
+---
+
+## 🚀 Future Enhancements
+
+* Multi-language Support
+* WhatsApp Notification Integration
+* Email Notifications
+* Responsive Design
+* Analytics Dashboard
+* Document Verification System
